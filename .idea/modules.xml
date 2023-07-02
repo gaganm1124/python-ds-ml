@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Refactored_Py_DS_ML_Bootcamp-master.iml" filepath="$PROJECT_DIR$/.idea/Refactored_Py_DS_ML_Bootcamp-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-ds-ml.iml" filepath="$PROJECT_DIR$/.idea/python-ds-ml.iml" />
     </modules>
   </component>
 </project>
